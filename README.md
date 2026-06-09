@@ -159,6 +159,5 @@ Análises realizadas:
 
 ## Links
 
-- **GitHub:** [PREENCHER]
+- **GitHub:** https://github.com/ShendonC/O.R.B.I.T.A.-GS2026.1---Luiz-Marcelo
 - **Vídeo Pitch:** [PREENCHER]
-- **Wokwi (Computer Org.):** [PREENCHER]
