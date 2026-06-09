@@ -1,0 +1,25 @@
+# ============================================================
+#  O.R.B.I.T.A. — Dependências Python
+#  Instalar com: pip install -r requirements.txt
+# ============================================================
+
+# Interface gráfica
+customtkinter>=5.2.0
+
+# Análise de dados e estatística
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+openpyxl>=3.1.0
+
+# Geração de PDF
+reportlab>=4.0.0
+
+# Variáveis de ambiente (.env)
+python-dotenv>=1.0.0
+
+# Text-to-speech offline (voz da ARIA)
+pyttsx3>=2.90
+
+# Requisições HTTP (já incluso no Python, listado para clareza)
+# urllib (built-in)

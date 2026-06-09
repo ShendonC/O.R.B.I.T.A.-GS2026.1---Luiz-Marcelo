@@ -1,0 +1,61 @@
+{
+  "missao": "O.R.B.I.T.A.",
+  "descricao": "Operational Risk & Balance Intelligence via Technique Analysis",
+  "equipe": "Aldebaran",
+  "ciclos": [
+    {
+      "id": 1,
+      "nome": "Inicio da missao",
+      "temperatura": 22,
+      "comunicacao": 95,
+      "bateria": 92,
+      "oxigenio": 97,
+      "estabilidade": 91
+    },
+    {
+      "id": 2,
+      "nome": "Estabilizacao dos sistemas",
+      "temperatura": 26,
+      "comunicacao": 88,
+      "bateria": 80,
+      "oxigenio": 95,
+      "estabilidade": 84
+    },
+    {
+      "id": 3,
+      "nome": "Queda parcial de comunicacao",
+      "temperatura": 31,
+      "comunicacao": 52,
+      "bateria": 65,
+      "oxigenio": 91,
+      "estabilidade": 72
+    },
+    {
+      "id": 4,
+      "nome": "Alerta de energia e temperatura",
+      "temperatura": 37,
+      "comunicacao": 41,
+      "bateria": 33,
+      "oxigenio": 86,
+      "estabilidade": 54
+    },
+    {
+      "id": 5,
+      "nome": "Risco operacional critico",
+      "temperatura": 40,
+      "comunicacao": 25,
+      "bateria": 17,
+      "oxigenio": 76,
+      "estabilidade": 32
+    },
+    {
+      "id": 6,
+      "nome": "Tentativa de recuperacao",
+      "temperatura": 33,
+      "comunicacao": 58,
+      "bateria": 29,
+      "oxigenio": 83,
+      "estabilidade": 48
+    }
+  ]
+}

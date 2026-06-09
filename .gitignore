@@ -1,0 +1,38 @@
+# ============================================================
+#  O.R.B.I.T.A. — .gitignore
+# ============================================================
+
+# Variáveis de ambiente — NUNCA subir ao GitHub
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Dados gerados localmente (o CSV é baixado automaticamente)
+# data/ucs_satellites.csv  ← descomente se não quiser subir o CSV
+
+# Outputs e assets gerados pelo código (opcional manter)
+# docs/relatorio_estatistico_orbita.pdf
+# assets/*.png
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
