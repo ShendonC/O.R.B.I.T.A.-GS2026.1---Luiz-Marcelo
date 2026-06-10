@@ -190,6 +190,8 @@ A pasta `docs/` contém um relatório técnico (`.docx`) para cada disciplina, e
 
 ---
 
-## Repositório
+## Links
 
-**GitHub:** https://github.com/ShendonC/O.R.B.I.T.A.-GS2026.1---Luiz-Marcelo/tree/main
+**GitHub:**  https://github.com/ShendonC/O.R.B.I.T.A.-GS2026.1---Luiz-Marcelo/tree/main
+**Pitch:**   https://youtu.be/DQzXyBv9joM
+**Técnico:** https://youtu.be/DQzXyBv9joM
